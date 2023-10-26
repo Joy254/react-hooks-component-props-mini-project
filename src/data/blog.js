@@ -28,4 +28,7 @@ const blogData = {
   ],
 };
 
+const image = blogData.image
+
 export default blogData;
+export {image}
